@@ -1,5 +1,6 @@
 from ast import arg
 import threading
+import ascii2text
 from selenium import webdriver
 import random, os
 from selenium.webdriver.common.keys import Keys
